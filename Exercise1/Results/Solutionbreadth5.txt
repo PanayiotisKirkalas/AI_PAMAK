@@ -1,0 +1,7 @@
+6, 1345
+double 480 241
+double 960 481
+root 1920 470
+double 43 22
+double 86 44
+double 172 87

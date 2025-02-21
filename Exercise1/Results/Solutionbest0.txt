@@ -1,0 +1,12 @@
+11, 381
+half 779 195
+half 389 98
+half 194 49
+half 97 25
+increase 48 2
+increase 49 2
+increase 50 2
+increase 51 2
+increase 52 2
+increase 53 2
+increase 54 2

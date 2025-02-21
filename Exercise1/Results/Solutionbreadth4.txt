@@ -1,0 +1,6 @@
+5, 302
+decrease 22 2
+decrease 21 2
+square 20 96
+decrease 400 2
+double 399 200

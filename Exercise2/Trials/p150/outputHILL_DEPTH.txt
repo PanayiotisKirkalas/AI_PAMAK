@@ -1,0 +1,530 @@
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_1.txt apo100_1_h1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_1.txt apo100_1_h1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_1.txt apo100_1_h1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_1.txt apo100_1_h1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_1.txt apo100_1_h1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe depth p150_1.txt apo100_1_d1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 66
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_2.txt apo100_2_h1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.001000 secs
+Number of restarts: 5
+Number of steps: 15
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_2.txt apo100_2_h2.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 5
+Number of steps: 15
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_2.txt apo100_2_h3.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 5
+Number of steps: 15
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_2.txt apo100_2_h4.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 5
+Number of steps: 15
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_2.txt apo100_2_h5.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.001000 secs
+Number of restarts: 5
+Number of steps: 15
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe depth p150_2.txt apo100_2_d2.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 25
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_3.txt apo100_3_h1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 6
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_3.txt apo100_3_h2.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 6
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_3.txt apo100_3_h3.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 6
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_3.txt apo100_3_h4.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 6
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_3.txt apo100_3_h5.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 6
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe depth p150_3.txt apo100_3_d3.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=false  P5=true  P6=false  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 74
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_4.txt apo100_4_h1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_4.txt apo100_4_h2.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_4.txt apo100_4_h3.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_4.txt apo100_4_h4.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_4.txt apo100_4_h5.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.001000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe depth p150_4.txt apo100_4_d4.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 21
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_5.txt apo100_5_h1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_5.txt apo100_5_h2.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_5.txt apo100_5_h3.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_5.txt apo100_5_h4.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_5.txt apo100_5_h5.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe depth p150_5.txt apo100_5_d5.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 16
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_6.txt apo100_6_h1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 5
+Number of steps: 14
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_6.txt apo100_6_h2.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.001000 secs
+Number of restarts: 5
+Number of steps: 14
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_6.txt apo100_6_h3.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.001000 secs
+Number of restarts: 5
+Number of steps: 14
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_6.txt apo100_6_h4.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.001000 secs
+Number of restarts: 5
+Number of steps: 14
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_6.txt apo100_6_h5.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.001000 secs
+Number of restarts: 5
+Number of steps: 14
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe depth p150_6.txt apo100_6_d6.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.001000 secs
+Number of steps: 159
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_7.txt apo100_7_h1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.001000 secs
+Number of restarts: 4
+Number of steps: 10
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_7.txt apo100_7_h2.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.001000 secs
+Number of restarts: 4
+Number of steps: 10
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_7.txt apo100_7_h3.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.001000 secs
+Number of restarts: 4
+Number of steps: 10
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_7.txt apo100_7_h4.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 4
+Number of steps: 10
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_7.txt apo100_7_h5.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 4
+Number of steps: 10
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe depth p150_7.txt apo100_7_d7.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.001000 secs
+Number of steps: 97
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_8.txt apo100_8_h1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.001000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_8.txt apo100_8_h2.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_8.txt apo100_8_h3.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.001000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_8.txt apo100_8_h4.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.001000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_8.txt apo100_8_h5.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe depth p150_8.txt apo100_8_d8.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 68
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_9.txt apo100_9_h1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_9.txt apo100_9_h2.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_9.txt apo100_9_h3.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_9.txt apo100_9_h4.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.001000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_9.txt apo100_9_h5.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe depth p150_9.txt apo100_9_h9.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_10.txt apo100_10_h1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.001000 secs
+Number of restarts: 3
+Number of steps: 10
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_10.txt apo100_10_h2.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.001000 secs
+Number of restarts: 3
+Number of steps: 10
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_10.txt apo100_10_h3.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 3
+Number of steps: 10
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_10.txt apo100_10_h4.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.001000 secs
+Number of restarts: 3
+Number of steps: 10
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe hill p150_10.txt apo100_10_h5.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 3
+Number of steps: 10
+
+C:\„‚€‘ˆ€_2\SourceCode\Trials\p150>bcsp.exe depth p150_10.txt apo100_10_h10.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 37

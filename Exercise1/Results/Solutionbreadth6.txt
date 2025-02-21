@@ -1,0 +1,5 @@
+4, 128
+half 77 20
+half 38 10
+increase 19 2
+square 20 96

@@ -1,0 +1,2950 @@
+5 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+5 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+5 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+5 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+5 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+5 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+5 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+5 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+5 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+5 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+7 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+7 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+7 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+7 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+7 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+7 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+7 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+7 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+7 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+7 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+11 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+11 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+11 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+11 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+11 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+11 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+11 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+11 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+11 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+11 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+17 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+17 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+17 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+17 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+17 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+17 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+17 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+17 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+17 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+17 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+27 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+27 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+27 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.001000
+0.000000
+0.000000
+27 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+27 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+27 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+27 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+27 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+27 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+27 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+45 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+45 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+45 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+45 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+45 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+45 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+45 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+45 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+45 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+45 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+75 
+0.000000
+0.001000
+0.001000
+0.000000
+0.001000
+0.001000
+0.000000
+0.001000
+75 
+0.000000
+0.001000
+0.000000
+0.000000
+0.001000
+0.001000
+0.001000
+0.001000
+75 
+0.001000
+0.000000
+0.000000
+0.000000
+0.000000
+0.001000
+0.001000
+0.001000
+75 
+0.001000
+0.001000
+0.001000
+0.001000
+0.001000
+0.001000
+0.001000
+0.001000
+75 
+0.000000
+0.000000
+0.000000
+0.001000
+0.000000
+0.001000
+0.000000
+0.000000
+75 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.001000
+0.000000
+0.001000
+75 
+0.000000
+0.001000
+0.001000
+0.001000
+0.001000
+0.001000
+0.000000
+0.000000
+75 
+0.000000
+0.001000
+0.001000
+0.001000
+0.000000
+0.000000
+0.000000
+0.000000
+75 
+0.000000
+0.000000
+0.001000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+75 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+125 
+0.001000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+125 
+0.001000
+0.001000
+0.001000
+0.000000
+0.001000
+0.000000
+0.000000
+0.000000
+125 
+0.001000
+0.000000
+0.001000
+0.000000
+0.001000
+0.000000
+0.000000
+0.001000
+125 
+0.000000
+0.000000
+0.000000
+0.001000
+0.000000
+0.000000
+0.001000
+0.000000
+125 
+0.001000
+0.000000
+0.001000
+0.001000
+0.001000
+0.001000
+0.000000
+0.000000
+125 
+0.001000
+0.003000
+0.004000
+0.003000
+0.001000
+0.000000
+0.001000
+0.000000
+125 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.001000
+0.000000
+0.001000
+125 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.001000
+125 
+0.001000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+125 
+0.001000
+0.001000
+0.000000
+0.001000
+0.001000
+0.001000
+0.001000
+0.001000
+207 
+0.001000
+0.001000
+0.001000
+0.001000
+0.001000
+0.001000
+-1
+0.002000
+207 
+0.004000
+0.004000
+0.003000
+0.003000
+0.004000
+0.003000
+0.014000
+0.007000
+207 
+0.001000
+0.001000
+0.001000
+0.001000
+0.002000
+0.002000
+0.005000
+0.005000
+207 
+0.006000
+0.005000
+0.005000
+0.007000
+0.005000
+0.001000
+0.005000
+0.001000
+207 
+0.000000
+0.001000
+0.000000
+0.000000
+0.000000
+0.001000
+0.000000
+0.002000
+207 
+0.001000
+0.001000
+0.001000
+0.002000
+0.001000
+0.002000
+0.003000
+0.004000
+207 
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.001000
+0.003000
+0.002000
+207 
+0.009000
+0.008000
+0.010000
+0.008000
+0.008000
+0.001000
+-1
+0.001000
+5 
+The current problem:
+====================
+P5 or P1 or P10 or P8 or P7
+P3 or not P4 or P9 or P7 or not P2
+P8 or P5 or P9 or P10 or P3
+not P6 or not P5 or not P2 or not P9 or P10
+P5 or P4 or not P1 or P8 or P2
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+P5 or P1 or P10 or P8 or P7
+P3 or not P4 or P9 or P7 or not P2
+P8 or P5 or P9 or P10 or P3
+not P6 or not P5 or not P2 or not P9 or P10
+P5 or P4 or not P1 or P8 or P2
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+P5 or P1 or P10 or P8 or P7
+P3 or not P4 or P9 or P7 or not P2
+P8 or P5 or P9 or P10 or P3
+not P6 or not P5 or not P2 or not P9 or P10
+P5 or P4 or not P1 or P8 or P2
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+P5 or P1 or P10 or P8 or P7
+P3 or not P4 or P9 or P7 or not P2
+P8 or P5 or P9 or P10 or P3
+not P6 or not P5 or not P2 or not P9 or P10
+P5 or P4 or not P1 or P8 or P2
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+P5 or P1 or P10 or P8 or P7
+P3 or not P4 or P9 or P7 or not P2
+P8 or P5 or P9 or P10 or P3
+not P6 or not P5 or not P2 or not P9 or P10
+P5 or P4 or not P1 or P8 or P2
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+P5 or P1 or P10 or P8 or P7
+P3 or not P4 or P9 or P7 or not P2
+P8 or P5 or P9 or P10 or P3
+not P6 or not P5 or not P2 or not P9 or P10
+P5 or P4 or not P1 or P8 or P2
+0.000000
+The current problem:
+====================
+P5 or P1 or P10 or P8 or P7
+P3 or not P4 or P9 or P7 or not P2
+P8 or P5 or P9 or P10 or P3
+not P6 or not P5 or not P2 or not P9 or P10
+P5 or P4 or not P1 or P8 or P2
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+P5 or P1 or P10 or P8 or P7
+P3 or not P4 or P9 or P7 or not P2
+P8 or P5 or P9 or P10 or P3
+not P6 or not P5 or not P2 or not P9 or P10
+P5 or P4 or not P1 or P8 or P2
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+5 
+The current problem:
+====================
+P2 or P5 or P4 or not P10 or not P9
+not P3 or P4 or P2 or P5 or P1
+P5 or not P4 or not P10 or P2 or not P1
+P6 or not P1 or P8 or P4 or P3
+not P5 or P4 or not P10 or not P2 or P8
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+P2 or P5 or P4 or not P10 or not P9
+not P3 or P4 or P2 or P5 or P1
+P5 or not P4 or not P10 or P2 or not P1
+P6 or not P1 or P8 or P4 or P3
+not P5 or P4 or not P10 or not P2 or P8
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+P2 or P5 or P4 or not P10 or not P9
+not P3 or P4 or P2 or P5 or P1
+P5 or not P4 or not P10 or P2 or not P1
+P6 or not P1 or P8 or P4 or P3
+not P5 or P4 or not P10 or not P2 or P8
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+P2 or P5 or P4 or not P10 or not P9
+not P3 or P4 or P2 or P5 or P1
+P5 or not P4 or not P10 or P2 or not P1
+P6 or not P1 or P8 or P4 or P3
+not P5 or P4 or not P10 or not P2 or P8
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+P2 or P5 or P4 or not P10 or not P9
+not P3 or P4 or P2 or P5 or P1
+P5 or not P4 or not P10 or P2 or not P1
+P6 or not P1 or P8 or P4 or P3
+not P5 or P4 or not P10 or not P2 or P8
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+P2 or P5 or P4 or not P10 or not P9
+not P3 or P4 or P2 or P5 or P1
+P5 or not P4 or not P10 or P2 or not P1
+P6 or not P1 or P8 or P4 or P3
+not P5 or P4 or not P10 or not P2 or P8
+0.000000
+The current problem:
+====================
+P2 or P5 or P4 or not P10 or not P9
+not P3 or P4 or P2 or P5 or P1
+P5 or not P4 or not P10 or P2 or not P1
+P6 or not P1 or P8 or P4 or P3
+not P5 or P4 or not P10 or not P2 or P8
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+P2 or P5 or P4 or not P10 or not P9
+not P3 or P4 or P2 or P5 or P1
+P5 or not P4 or not P10 or P2 or not P1
+P6 or not P1 or P8 or P4 or P3
+not P5 or P4 or not P10 or not P2 or P8
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+5 
+The current problem:
+====================
+not P2 or P7 or not P10 or P1 or not P9
+P5 or P9 or not P3 or P2 or not P1
+P3 or P9 or not P5 or not P2 or not P8
+not P6 or not P2 or P4 or not P9 or not P7
+P4 or not P7 or not P10 or P3 or not P6
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+The current problem:
+====================
+not P2 or P7 or not P10 or P1 or not P9
+P5 or P9 or not P3 or P2 or not P1
+P3 or P9 or not P5 or not P2 or not P8
+not P6 or not P2 or P4 or not P9 or not P7
+P4 or not P7 or not P10 or P3 or not P6
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+The current problem:
+====================
+not P2 or P7 or not P10 or P1 or not P9
+P5 or P9 or not P3 or P2 or not P1
+P3 or P9 or not P5 or not P2 or not P8
+not P6 or not P2 or P4 or not P9 or not P7
+P4 or not P7 or not P10 or P3 or not P6
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+The current problem:
+====================
+not P2 or P7 or not P10 or P1 or not P9
+P5 or P9 or not P3 or P2 or not P1
+P3 or P9 or not P5 or not P2 or not P8
+not P6 or not P2 or P4 or not P9 or not P7
+P4 or not P7 or not P10 or P3 or not P6
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P2 or P7 or not P10 or P1 or not P9
+P5 or P9 or not P3 or P2 or not P1
+P3 or P9 or not P5 or not P2 or not P8
+not P6 or not P2 or P4 or not P9 or not P7
+P4 or not P7 or not P10 or P3 or not P6
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P2 or P7 or not P10 or P1 or not P9
+P5 or P9 or not P3 or P2 or not P1
+P3 or P9 or not P5 or not P2 or not P8
+not P6 or not P2 or P4 or not P9 or not P7
+P4 or not P7 or not P10 or P3 or not P6
+0.000000
+The current problem:
+====================
+not P2 or P7 or not P10 or P1 or not P9
+P5 or P9 or not P3 or P2 or not P1
+P3 or P9 or not P5 or not P2 or not P8
+not P6 or not P2 or P4 or not P9 or not P7
+P4 or not P7 or not P10 or P3 or not P6
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P2 or P7 or not P10 or P1 or not P9
+P5 or P9 or not P3 or P2 or not P1
+P3 or P9 or not P5 or not P2 or not P8
+not P6 or not P2 or P4 or not P9 or not P7
+P4 or not P7 or not P10 or P3 or not P6
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+5 
+The current problem:
+====================
+not P9 or P5 or not P8 or not P2 or P4
+P8 or not P6 or P10 or P2 or not P3
+not P3 or not P9 or P10 or P4 or not P5
+not P8 or not P7 or not P5 or not P6 or not P2
+not P2 or not P4 or P3 or not P5 or not P8
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P9 or P5 or not P8 or not P2 or P4
+P8 or not P6 or P10 or P2 or not P3
+not P3 or not P9 or P10 or P4 or not P5
+not P8 or not P7 or not P5 or not P6 or not P2
+not P2 or not P4 or P3 or not P5 or not P8
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P9 or P5 or not P8 or not P2 or P4
+P8 or not P6 or P10 or P2 or not P3
+not P3 or not P9 or P10 or P4 or not P5
+not P8 or not P7 or not P5 or not P6 or not P2
+not P2 or not P4 or P3 or not P5 or not P8
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P9 or P5 or not P8 or not P2 or P4
+P8 or not P6 or P10 or P2 or not P3
+not P3 or not P9 or P10 or P4 or not P5
+not P8 or not P7 or not P5 or not P6 or not P2
+not P2 or not P4 or P3 or not P5 or not P8
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P9 or P5 or not P8 or not P2 or P4
+P8 or not P6 or P10 or P2 or not P3
+not P3 or not P9 or P10 or P4 or not P5
+not P8 or not P7 or not P5 or not P6 or not P2
+not P2 or not P4 or P3 or not P5 or not P8
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P9 or P5 or not P8 or not P2 or P4
+P8 or not P6 or P10 or P2 or not P3
+not P3 or not P9 or P10 or P4 or not P5
+not P8 or not P7 or not P5 or not P6 or not P2
+not P2 or not P4 or P3 or not P5 or not P8
+0.000000
+The current problem:
+====================
+not P9 or P5 or not P8 or not P2 or P4
+P8 or not P6 or P10 or P2 or not P3
+not P3 or not P9 or P10 or P4 or not P5
+not P8 or not P7 or not P5 or not P6 or not P2
+not P2 or not P4 or P3 or not P5 or not P8
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P9 or P5 or not P8 or not P2 or P4
+P8 or not P6 or P10 or P2 or not P3
+not P3 or not P9 or P10 or P4 or not P5
+not P8 or not P7 or not P5 or not P6 or not P2
+not P2 or not P4 or P3 or not P5 or not P8
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+5 
+The current problem:
+====================
+not P8 or not P4 or not P3 or not P1 or not P9
+P4 or P1 or P6 or not P8 or P7
+P2 or P3 or not P9 or P6 or not P1
+P10 or not P7 or P4 or P6 or not P3
+not P9 or P4 or P6 or not P7 or P8
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P8 or not P4 or not P3 or not P1 or not P9
+P4 or P1 or P6 or not P8 or P7
+P2 or P3 or not P9 or P6 or not P1
+P10 or not P7 or P4 or P6 or not P3
+not P9 or P4 or P6 or not P7 or P8
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P8 or not P4 or not P3 or not P1 or not P9
+P4 or P1 or P6 or not P8 or P7
+P2 or P3 or not P9 or P6 or not P1
+P10 or not P7 or P4 or P6 or not P3
+not P9 or P4 or P6 or not P7 or P8
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P8 or not P4 or not P3 or not P1 or not P9
+P4 or P1 or P6 or not P8 or P7
+P2 or P3 or not P9 or P6 or not P1
+P10 or not P7 or P4 or P6 or not P3
+not P9 or P4 or P6 or not P7 or P8
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P8 or not P4 or not P3 or not P1 or not P9
+P4 or P1 or P6 or not P8 or P7
+P2 or P3 or not P9 or P6 or not P1
+P10 or not P7 or P4 or P6 or not P3
+not P9 or P4 or P6 or not P7 or P8
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P8 or not P4 or not P3 or not P1 or not P9
+P4 or P1 or P6 or not P8 or P7
+P2 or P3 or not P9 or P6 or not P1
+P10 or not P7 or P4 or P6 or not P3
+not P9 or P4 or P6 or not P7 or P8
+0.000000
+The current problem:
+====================
+not P8 or not P4 or not P3 or not P1 or not P9
+P4 or P1 or P6 or not P8 or P7
+P2 or P3 or not P9 or P6 or not P1
+P10 or not P7 or P4 or P6 or not P3
+not P9 or P4 or P6 or not P7 or P8
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P8 or not P4 or not P3 or not P1 or not P9
+P4 or P1 or P6 or not P8 or P7
+P2 or P3 or not P9 or P6 or not P1
+P10 or not P7 or P4 or P6 or not P3
+not P9 or P4 or P6 or not P7 or P8
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+5 
+The current problem:
+====================
+P5 or not P4 or not P10 or P2 or P7
+P5 or P8 or P9 or P2 or P4
+P6 or P5 or not P9 or not P10 or not P8
+P10 or not P1 or not P3 or not P9 or not P2
+P9 or P7 or P10 or P8 or P1
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+P5 or not P4 or not P10 or P2 or P7
+P5 or P8 or P9 or P2 or P4
+P6 or P5 or not P9 or not P10 or not P8
+P10 or not P1 or not P3 or not P9 or not P2
+P9 or P7 or P10 or P8 or P1
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+P5 or not P4 or not P10 or P2 or P7
+P5 or P8 or P9 or P2 or P4
+P6 or P5 or not P9 or not P10 or not P8
+P10 or not P1 or not P3 or not P9 or not P2
+P9 or P7 or P10 or P8 or P1
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+P5 or not P4 or not P10 or P2 or P7
+P5 or P8 or P9 or P2 or P4
+P6 or P5 or not P9 or not P10 or not P8
+P10 or not P1 or not P3 or not P9 or not P2
+P9 or P7 or P10 or P8 or P1
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+P5 or not P4 or not P10 or P2 or P7
+P5 or P8 or P9 or P2 or P4
+P6 or P5 or not P9 or not P10 or not P8
+P10 or not P1 or not P3 or not P9 or not P2
+P9 or P7 or P10 or P8 or P1
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+P5 or not P4 or not P10 or P2 or P7
+P5 or P8 or P9 or P2 or P4
+P6 or P5 or not P9 or not P10 or not P8
+P10 or not P1 or not P3 or not P9 or not P2
+P9 or P7 or P10 or P8 or P1
+0.000000
+The current problem:
+====================
+P5 or not P4 or not P10 or P2 or P7
+P5 or P8 or P9 or P2 or P4
+P6 or P5 or not P9 or not P10 or not P8
+P10 or not P1 or not P3 or not P9 or not P2
+P9 or P7 or P10 or P8 or P1
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+P5 or not P4 or not P10 or P2 or P7
+P5 or P8 or P9 or P2 or P4
+P6 or P5 or not P9 or not P10 or not P8
+P10 or not P1 or not P3 or not P9 or not P2
+P9 or P7 or P10 or P8 or P1
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+5 
+The current problem:
+====================
+P8 or not P9 or P6 or not P2 or not P3
+not P9 or P2 or not P10 or P8 or P3
+P5 or P8 or P6 or P9 or P4
+not P1 or P10 or not P5 or P3 or not P6
+not P3 or P6 or not P5 or P7 or not P10
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+P8 or not P9 or P6 or not P2 or not P3
+not P9 or P2 or not P10 or P8 or P3
+P5 or P8 or P6 or P9 or P4
+not P1 or P10 or not P5 or P3 or not P6
+not P3 or P6 or not P5 or P7 or not P10
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+P8 or not P9 or P6 or not P2 or not P3
+not P9 or P2 or not P10 or P8 or P3
+P5 or P8 or P6 or P9 or P4
+not P1 or P10 or not P5 or P3 or not P6
+not P3 or P6 or not P5 or P7 or not P10
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+P8 or not P9 or P6 or not P2 or not P3
+not P9 or P2 or not P10 or P8 or P3
+P5 or P8 or P6 or P9 or P4
+not P1 or P10 or not P5 or P3 or not P6
+not P3 or P6 or not P5 or P7 or not P10
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+P8 or not P9 or P6 or not P2 or not P3
+not P9 or P2 or not P10 or P8 or P3
+P5 or P8 or P6 or P9 or P4
+not P1 or P10 or not P5 or P3 or not P6
+not P3 or P6 or not P5 or P7 or not P10
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+P8 or not P9 or P6 or not P2 or not P3
+not P9 or P2 or not P10 or P8 or P3
+P5 or P8 or P6 or P9 or P4
+not P1 or P10 or not P5 or P3 or not P6
+not P3 or P6 or not P5 or P7 or not P10
+0.000000
+The current problem:
+====================
+P8 or not P9 or P6 or not P2 or not P3
+not P9 or P2 or not P10 or P8 or P3
+P5 or P8 or P6 or P9 or P4
+not P1 or P10 or not P5 or P3 or not P6
+not P3 or P6 or not P5 or P7 or not P10
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+P8 or not P9 or P6 or not P2 or not P3
+not P9 or P2 or not P10 or P8 or P3
+P5 or P8 or P6 or P9 or P4
+not P1 or P10 or not P5 or P3 or not P6
+not P3 or P6 or not P5 or P7 or not P10
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+5 
+The current problem:
+====================
+not P4 or P1 or P7 or not P6 or P8
+P10 or P5 or P9 or P7 or P1
+not P8 or not P5 or P6 or not P1 or P9
+P1 or not P3 or not P6 or P2 or not P10
+not P10 or P7 or P3 or not P4 or P9
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P4 or P1 or P7 or not P6 or P8
+P10 or P5 or P9 or P7 or P1
+not P8 or not P5 or P6 or not P1 or P9
+P1 or not P3 or not P6 or P2 or not P10
+not P10 or P7 or P3 or not P4 or P9
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P4 or P1 or P7 or not P6 or P8
+P10 or P5 or P9 or P7 or P1
+not P8 or not P5 or P6 or not P1 or P9
+P1 or not P3 or not P6 or P2 or not P10
+not P10 or P7 or P3 or not P4 or P9
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P4 or P1 or P7 or not P6 or P8
+P10 or P5 or P9 or P7 or P1
+not P8 or not P5 or P6 or not P1 or P9
+P1 or not P3 or not P6 or P2 or not P10
+not P10 or P7 or P3 or not P4 or P9
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P4 or P1 or P7 or not P6 or P8
+P10 or P5 or P9 or P7 or P1
+not P8 or not P5 or P6 or not P1 or P9
+P1 or not P3 or not P6 or P2 or not P10
+not P10 or P7 or P3 or not P4 or P9
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P4 or P1 or P7 or not P6 or P8
+P10 or P5 or P9 or P7 or P1
+not P8 or not P5 or P6 or not P1 or P9
+P1 or not P3 or not P6 or P2 or not P10
+not P10 or P7 or P3 or not P4 or P9
+0.000000
+The current problem:
+====================
+not P4 or P1 or P7 or not P6 or P8
+P10 or P5 or P9 or P7 or P1
+not P8 or not P5 or P6 or not P1 or P9
+P1 or not P3 or not P6 or P2 or not P10
+not P10 or P7 or P3 or not P4 or P9
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P4 or P1 or P7 or not P6 or P8
+P10 or P5 or P9 or P7 or P1
+not P8 or not P5 or P6 or not P1 or P9
+P1 or not P3 or not P6 or P2 or not P10
+not P10 or P7 or P3 or not P4 or P9
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+5 
+The current problem:
+====================
+not P3 or not P10 or P6 or not P2 or P5
+not P8 or not P2 or P10 or not P5 or P7
+not P4 or not P5 or P3 or P6 or not P7
+P3 or P1 or P5 or P9 or not P10
+not P6 or P10 or not P9 or P3 or not P8
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P3 or not P10 or P6 or not P2 or P5
+not P8 or not P2 or P10 or not P5 or P7
+not P4 or not P5 or P3 or P6 or not P7
+P3 or P1 or P5 or P9 or not P10
+not P6 or P10 or not P9 or P3 or not P8
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P3 or not P10 or P6 or not P2 or P5
+not P8 or not P2 or P10 or not P5 or P7
+not P4 or not P5 or P3 or P6 or not P7
+P3 or P1 or P5 or P9 or not P10
+not P6 or P10 or not P9 or P3 or not P8
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P3 or not P10 or P6 or not P2 or P5
+not P8 or not P2 or P10 or not P5 or P7
+not P4 or not P5 or P3 or P6 or not P7
+P3 or P1 or P5 or P9 or not P10
+not P6 or P10 or not P9 or P3 or not P8
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P3 or not P10 or P6 or not P2 or P5
+not P8 or not P2 or P10 or not P5 or P7
+not P4 or not P5 or P3 or P6 or not P7
+P3 or P1 or P5 or P9 or not P10
+not P6 or P10 or not P9 or P3 or not P8
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P3 or not P10 or P6 or not P2 or P5
+not P8 or not P2 or P10 or not P5 or P7
+not P4 or not P5 or P3 or P6 or not P7
+P3 or P1 or P5 or P9 or not P10
+not P6 or P10 or not P9 or P3 or not P8
+0.000000
+The current problem:
+====================
+not P3 or not P10 or P6 or not P2 or P5
+not P8 or not P2 or P10 or not P5 or P7
+not P4 or not P5 or P3 or P6 or not P7
+P3 or P1 or P5 or P9 or not P10
+not P6 or P10 or not P9 or P3 or not P8
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P3 or not P10 or P6 or not P2 or P5
+not P8 or not P2 or P10 or not P5 or P7
+not P4 or not P5 or P3 or P6 or not P7
+P3 or P1 or P5 or P9 or not P10
+not P6 or P10 or not P9 or P3 or not P8
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+5 
+The current problem:
+====================
+not P10 or P5 or not P2 or not P1 or not P8
+P6 or P3 or not P5 or P4 or P2
+not P1 or not P3 or not P2 or not P9 or not P7
+not P4 or not P10 or not P5 or P6 or P2
+P1 or not P5 or P2 or P10 or P6
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+The current problem:
+====================
+not P10 or P5 or not P2 or not P1 or not P8
+P6 or P3 or not P5 or P4 or P2
+not P1 or not P3 or not P2 or not P9 or not P7
+not P4 or not P10 or not P5 or P6 or P2
+P1 or not P5 or P2 or P10 or P6
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+The current problem:
+====================
+not P10 or P5 or not P2 or not P1 or not P8
+P6 or P3 or not P5 or P4 or P2
+not P1 or not P3 or not P2 or not P9 or not P7
+not P4 or not P10 or not P5 or P6 or P2
+P1 or not P5 or P2 or P10 or P6
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+The current problem:
+====================
+not P10 or P5 or not P2 or not P1 or not P8
+P6 or P3 or not P5 or P4 or P2
+not P1 or not P3 or not P2 or not P9 or not P7
+not P4 or not P10 or not P5 or P6 or P2
+P1 or not P5 or P2 or P10 or P6
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+The current problem:
+====================
+not P10 or P5 or not P2 or not P1 or not P8
+P6 or P3 or not P5 or P4 or P2
+not P1 or not P3 or not P2 or not P9 or not P7
+not P4 or not P10 or not P5 or P6 or P2
+P1 or not P5 or P2 or P10 or P6
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+The current problem:
+====================
+not P10 or P5 or not P2 or not P1 or not P8
+P6 or P3 or not P5 or P4 or P2
+not P1 or not P3 or not P2 or not P9 or not P7
+not P4 or not P10 or not P5 or P6 or P2
+P1 or not P5 or P2 or P10 or P6
+0.000000
+The current problem:
+====================
+not P10 or P5 or not P2 or not P1 or not P8
+P6 or P3 or not P5 or P4 or P2
+not P1 or not P3 or not P2 or not P9 or not P7
+not P4 or not P10 or not P5 or P6 or P2
+P1 or not P5 or P2 or P10 or P6
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+The current problem:
+====================
+not P10 or P5 or not P2 or not P1 or not P8
+P6 or P3 or not P5 or P4 or P2
+not P1 or not P3 or not P2 or not P9 or not P7
+not P4 or not P10 or not P5 or P6 or P2
+P1 or not P5 or P2 or P10 or P6
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 10
+7 
+The current problem:
+====================
+P2 or not P1 or P6 or not P4 or P8
+P3 or P10 or not P1 or P5 or P8
+not P1 or P8 or P6 or P5 or not P10
+P7 or not P4 or not P6 or P8 or P9
+P2 or not P9 or not P1 or not P7 or P5
+not P6 or not P1 or P2 or P8 or P7
+not P3 or P5 or not P8 or P6 or not P2
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+P2 or not P1 or P6 or not P4 or P8
+P3 or P10 or not P1 or P5 or P8
+not P1 or P8 or P6 or P5 or not P10
+P7 or not P4 or not P6 or P8 or P9
+P2 or not P9 or not P1 or not P7 or P5
+not P6 or not P1 or P2 or P8 or P7
+not P3 or P5 or not P8 or P6 or not P2
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+P2 or not P1 or P6 or not P4 or P8
+P3 or P10 or not P1 or P5 or P8
+not P1 or P8 or P6 or P5 or not P10
+P7 or not P4 or not P6 or P8 or P9
+P2 or not P9 or not P1 or not P7 or P5
+not P6 or not P1 or P2 or P8 or P7
+not P3 or P5 or not P8 or P6 or not P2
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+P2 or not P1 or P6 or not P4 or P8
+P3 or P10 or not P1 or P5 or P8
+not P1 or P8 or P6 or P5 or not P10
+P7 or not P4 or not P6 or P8 or P9
+P2 or not P9 or not P1 or not P7 or P5
+not P6 or not P1 or P2 or P8 or P7
+not P3 or P5 or not P8 or P6 or not P2
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+P2 or not P1 or P6 or not P4 or P8
+P3 or P10 or not P1 or P5 or P8
+not P1 or P8 or P6 or P5 or not P10
+P7 or not P4 or not P6 or P8 or P9
+P2 or not P9 or not P1 or not P7 or P5
+not P6 or not P1 or P2 or P8 or P7
+not P3 or P5 or not P8 or P6 or not P2
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+P2 or not P1 or P6 or not P4 or P8
+P3 or P10 or not P1 or P5 or P8
+not P1 or P8 or P6 or P5 or not P10
+P7 or not P4 or not P6 or P8 or P9
+P2 or not P9 or not P1 or not P7 or P5
+not P6 or not P1 or P2 or P8 or P7
+not P3 or P5 or not P8 or P6 or not P2
+0.000000
+The current problem:
+====================
+P2 or not P1 or P6 or not P4 or P8
+P3 or P10 or not P1 or P5 or P8
+not P1 or P8 or P6 or P5 or not P10
+P7 or not P4 or not P6 or P8 or P9
+P2 or not P9 or not P1 or not P7 or P5
+not P6 or not P1 or P2 or P8 or P7
+not P3 or P5 or not P8 or P6 or not P2
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+P2 or not P1 or P6 or not P4 or P8
+P3 or P10 or not P1 or P5 or P8
+not P1 or P8 or P6 or P5 or not P10
+P7 or not P4 or not P6 or P8 or P9
+P2 or not P9 or not P1 or not P7 or P5
+not P6 or not P1 or P2 or P8 or P7
+not P3 or P5 or not P8 or P6 or not P2
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+7 
+The current problem:
+====================
+not P7 or not P8 or not P5 or P9 or P2
+P6 or not P4 or not P3 or not P5 or P8
+P3 or P7 or P8 or not P9 or not P5
+P6 or P3 or not P9 or P1 or not P10
+not P9 or P1 or not P2 or not P3 or P10
+P4 or P10 or P6 or not P5 or P2
+P3 or P2 or not P7 or not P4 or not P10
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P7 or not P8 or not P5 or P9 or P2
+P6 or not P4 or not P3 or not P5 or P8
+P3 or P7 or P8 or not P9 or not P5
+P6 or P3 or not P9 or P1 or not P10
+not P9 or P1 or not P2 or not P3 or P10
+P4 or P10 or P6 or not P5 or P2
+P3 or P2 or not P7 or not P4 or not P10
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P7 or not P8 or not P5 or P9 or P2
+P6 or not P4 or not P3 or not P5 or P8
+P3 or P7 or P8 or not P9 or not P5
+P6 or P3 or not P9 or P1 or not P10
+not P9 or P1 or not P2 or not P3 or P10
+P4 or P10 or P6 or not P5 or P2
+P3 or P2 or not P7 or not P4 or not P10
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P7 or not P8 or not P5 or P9 or P2
+P6 or not P4 or not P3 or not P5 or P8
+P3 or P7 or P8 or not P9 or not P5
+P6 or P3 or not P9 or P1 or not P10
+not P9 or P1 or not P2 or not P3 or P10
+P4 or P10 or P6 or not P5 or P2
+P3 or P2 or not P7 or not P4 or not P10
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P7 or not P8 or not P5 or P9 or P2
+P6 or not P4 or not P3 or not P5 or P8
+P3 or P7 or P8 or not P9 or not P5
+P6 or P3 or not P9 or P1 or not P10
+not P9 or P1 or not P2 or not P3 or P10
+P4 or P10 or P6 or not P5 or P2
+P3 or P2 or not P7 or not P4 or not P10
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P7 or not P8 or not P5 or P9 or P2
+P6 or not P4 or not P3 or not P5 or P8
+P3 or P7 or P8 or not P9 or not P5
+P6 or P3 or not P9 or P1 or not P10
+not P9 or P1 or not P2 or not P3 or P10
+P4 or P10 or P6 or not P5 or P2
+P3 or P2 or not P7 or not P4 or not P10
+0.000000
+The current problem:
+====================
+not P7 or not P8 or not P5 or P9 or P2
+P6 or not P4 or not P3 or not P5 or P8
+P3 or P7 or P8 or not P9 or not P5
+P6 or P3 or not P9 or P1 or not P10
+not P9 or P1 or not P2 or not P3 or P10
+P4 or P10 or P6 or not P5 or P2
+P3 or P2 or not P7 or not P4 or not P10
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P7 or not P8 or not P5 or P9 or P2
+P6 or not P4 or not P3 or not P5 or P8
+P3 or P7 or P8 or not P9 or not P5
+P6 or P3 or not P9 or P1 or not P10
+not P9 or P1 or not P2 or not P3 or P10
+P4 or P10 or P6 or not P5 or P2
+P3 or P2 or not P7 or not P4 or not P10
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+7 
+The current problem:
+====================
+not P8 or not P7 or not P3 or P9 or not P6
+not P2 or not P7 or not P1 or not P3 or not P5
+not P10 or P7 or not P2 or not P6 or not P4
+P8 or not P5 or not P6 or P4 or P10
+P1 or P4 or P6 or P8 or not P2
+P10 or not P4 or P5 or not P8 or P1
+not P10 or not P8 or P6 or not P5 or not P7
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P8 or not P7 or not P3 or P9 or not P6
+not P2 or not P7 or not P1 or not P3 or not P5
+not P10 or P7 or not P2 or not P6 or not P4
+P8 or not P5 or not P6 or P4 or P10
+P1 or P4 or P6 or P8 or not P2
+P10 or not P4 or P5 or not P8 or P1
+not P10 or not P8 or P6 or not P5 or not P7
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P8 or not P7 or not P3 or P9 or not P6
+not P2 or not P7 or not P1 or not P3 or not P5
+not P10 or P7 or not P2 or not P6 or not P4
+P8 or not P5 or not P6 or P4 or P10
+P1 or P4 or P6 or P8 or not P2
+P10 or not P4 or P5 or not P8 or P1
+not P10 or not P8 or P6 or not P5 or not P7
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P8 or not P7 or not P3 or P9 or not P6
+not P2 or not P7 or not P1 or not P3 or not P5
+not P10 or P7 or not P2 or not P6 or not P4
+P8 or not P5 or not P6 or P4 or P10
+P1 or P4 or P6 or P8 or not P2
+P10 or not P4 or P5 or not P8 or P1
+not P10 or not P8 or P6 or not P5 or not P7
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P8 or not P7 or not P3 or P9 or not P6
+not P2 or not P7 or not P1 or not P3 or not P5
+not P10 or P7 or not P2 or not P6 or not P4
+P8 or not P5 or not P6 or P4 or P10
+P1 or P4 or P6 or P8 or not P2
+P10 or not P4 or P5 or not P8 or P1
+not P10 or not P8 or P6 or not P5 or not P7
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P8 or not P7 or not P3 or P9 or not P6
+not P2 or not P7 or not P1 or not P3 or not P5
+not P10 or P7 or not P2 or not P6 or not P4
+P8 or not P5 or not P6 or P4 or P10
+P1 or P4 or P6 or P8 or not P2
+P10 or not P4 or P5 or not P8 or P1
+not P10 or not P8 or P6 or not P5 or not P7
+0.000000
+The current problem:
+====================
+not P8 or not P7 or not P3 or P9 or not P6
+not P2 or not P7 or not P1 or not P3 or not P5
+not P10 or P7 or not P2 or not P6 or not P4
+P8 or not P5 or not P6 or P4 or P10
+P1 or P4 or P6 or P8 or not P2
+P10 or not P4 or P5 or not P8 or P1
+not P10 or not P8 or P6 or not P5 or not P7
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P8 or not P7 or not P3 or P9 or not P6
+not P2 or not P7 or not P1 or not P3 or not P5
+not P10 or P7 or not P2 or not P6 or not P4
+P8 or not P5 or not P6 or P4 or P10
+P1 or P4 or P6 or P8 or not P2
+P10 or not P4 or P5 or not P8 or P1
+not P10 or not P8 or P6 or not P5 or not P7
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 11
+7 
+The current problem:
+====================
+not P9 or not P2 or P7 or not P3 or not P1
+P8 or P7 or not P3 or P9 or P4
+not P10 or not P2 or not P9 or P8 or P4
+not P7 or not P5 or not P6 or P3 or P10
+not P6 or P1 or not P3 or P4 or not P8
+P5 or P3 or P6 or P2 or not P9
+not P8 or P6 or not P10 or P3 or P7
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P9 or not P2 or P7 or not P3 or not P1
+P8 or P7 or not P3 or P9 or P4
+not P10 or not P2 or not P9 or P8 or P4
+not P7 or not P5 or not P6 or P3 or P10
+not P6 or P1 or not P3 or P4 or not P8
+P5 or P3 or P6 or P2 or not P9
+not P8 or P6 or not P10 or P3 or P7
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P9 or not P2 or P7 or not P3 or not P1
+P8 or P7 or not P3 or P9 or P4
+not P10 or not P2 or not P9 or P8 or P4
+not P7 or not P5 or not P6 or P3 or P10
+not P6 or P1 or not P3 or P4 or not P8
+P5 or P3 or P6 or P2 or not P9
+not P8 or P6 or not P10 or P3 or P7
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P9 or not P2 or P7 or not P3 or not P1
+P8 or P7 or not P3 or P9 or P4
+not P10 or not P2 or not P9 or P8 or P4
+not P7 or not P5 or not P6 or P3 or P10
+not P6 or P1 or not P3 or P4 or not P8
+P5 or P3 or P6 or P2 or not P9
+not P8 or P6 or not P10 or P3 or P7
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P9 or not P2 or P7 or not P3 or not P1
+P8 or P7 or not P3 or P9 or P4
+not P10 or not P2 or not P9 or P8 or P4
+not P7 or not P5 or not P6 or P3 or P10
+not P6 or P1 or not P3 or P4 or not P8
+P5 or P3 or P6 or P2 or not P9
+not P8 or P6 or not P10 or P3 or P7
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P9 or not P2 or P7 or not P3 or not P1
+P8 or P7 or not P3 or P9 or P4
+not P10 or not P2 or not P9 or P8 or P4
+not P7 or not P5 or not P6 or P3 or P10
+not P6 or P1 or not P3 or P4 or not P8
+P5 or P3 or P6 or P2 or not P9
+not P8 or P6 or not P10 or P3 or P7
+0.000000
+The current problem:
+====================
+not P9 or not P2 or P7 or not P3 or not P1
+P8 or P7 or not P3 or P9 or P4
+not P10 or not P2 or not P9 or P8 or P4
+not P7 or not P5 or not P6 or P3 or P10
+not P6 or P1 or not P3 or P4 or not P8
+P5 or P3 or P6 or P2 or not P9
+not P8 or P6 or not P10 or P3 or P7
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P9 or not P2 or P7 or not P3 or not P1
+P8 or P7 or not P3 or P9 or P4
+not P10 or not P2 or not P9 or P8 or P4
+not P7 or not P5 or not P6 or P3 or P10
+not P6 or P1 or not P3 or P4 or not P8
+P5 or P3 or P6 or P2 or not P9
+not P8 or P6 or not P10 or P3 or P7
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+7 
+The current problem:
+====================
+not P2 or P10 or not P7 or not P8 or P4
+P8 or not P7 or P10 or not P9 or not P5
+P2 or not P3 or not P1 or P4 or not P10
+P9 or P4 or not P5 or P8 or not P6
+not P1 or not P10 or not P7 or not P5 or P8
+P5 or P10 or not P6 or not P9 or not P8
+P6 or P4 or not P5 or P9 or P7
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+The current problem:
+====================
+not P2 or P10 or not P7 or not P8 or P4
+P8 or not P7 or P10 or not P9 or not P5
+P2 or not P3 or not P1 or P4 or not P10
+P9 or P4 or not P5 or P8 or not P6
+not P1 or not P10 or not P7 or not P5 or P8
+P5 or P10 or not P6 or not P9 or not P8
+P6 or P4 or not P5 or P9 or P7
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+The current problem:
+====================
+not P2 or P10 or not P7 or not P8 or P4
+P8 or not P7 or P10 or not P9 or not P5
+P2 or not P3 or not P1 or P4 or not P10
+P9 or P4 or not P5 or P8 or not P6
+not P1 or not P10 or not P7 or not P5 or P8
+P5 or P10 or not P6 or not P9 or not P8
+P6 or P4 or not P5 or P9 or P7
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+The current problem:
+====================
+not P2 or P10 or not P7 or not P8 or P4
+P8 or not P7 or P10 or not P9 or not P5
+P2 or not P3 or not P1 or P4 or not P10
+P9 or P4 or not P5 or P8 or not P6
+not P1 or not P10 or not P7 or not P5 or P8
+P5 or P10 or not P6 or not P9 or not P8
+P6 or P4 or not P5 or P9 or P7
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+The current problem:
+====================
+not P2 or P10 or not P7 or not P8 or P4
+P8 or not P7 or P10 or not P9 or not P5
+P2 or not P3 or not P1 or P4 or not P10
+P9 or P4 or not P5 or P8 or not P6
+not P1 or not P10 or not P7 or not P5 or P8
+P5 or P10 or not P6 or not P9 or not P8
+P6 or P4 or not P5 or P9 or P7
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+The current problem:
+====================
+not P2 or P10 or not P7 or not P8 or P4
+P8 or not P7 or P10 or not P9 or not P5
+P2 or not P3 or not P1 or P4 or not P10
+P9 or P4 or not P5 or P8 or not P6
+not P1 or not P10 or not P7 or not P5 or P8
+P5 or P10 or not P6 or not P9 or not P8
+P6 or P4 or not P5 or P9 or P7
+0.000000
+The current problem:
+====================
+not P2 or P10 or not P7 or not P8 or P4
+P8 or not P7 or P10 or not P9 or not P5
+P2 or not P3 or not P1 or P4 or not P10
+P9 or P4 or not P5 or P8 or not P6
+not P1 or not P10 or not P7 or not P5 or P8
+P5 or P10 or not P6 or not P9 or not P8
+P6 or P4 or not P5 or P9 or P7
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+The current problem:
+====================
+not P2 or P10 or not P7 or not P8 or P4
+P8 or not P7 or P10 or not P9 or not P5
+P2 or not P3 or not P1 or P4 or not P10
+P9 or P4 or not P5 or P8 or not P6
+not P1 or not P10 or not P7 or not P5 or P8
+P5 or P10 or not P6 or not P9 or not P8
+P6 or P4 or not P5 or P9 or P7
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+7 
+The current problem:
+====================
+P2 or not P10 or not P1 or P3 or not P6
+not P5 or not P10 or not P8 or not P9 or not P4
+not P6 or P7 or P5 or P10 or P9
+not P6 or P9 or not P1 or not P5 or P4
+not P3 or P4 or P7 or P5 or not P6
+P3 or P4 or not P5 or not P10 or P6
+not P2 or not P10 or P4 or P7 or P5
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+P2 or not P10 or not P1 or P3 or not P6
+not P5 or not P10 or not P8 or not P9 or not P4
+not P6 or P7 or P5 or P10 or P9
+not P6 or P9 or not P1 or not P5 or P4
+not P3 or P4 or P7 or P5 or not P6
+P3 or P4 or not P5 or not P10 or P6
+not P2 or not P10 or P4 or P7 or P5
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+P2 or not P10 or not P1 or P3 or not P6
+not P5 or not P10 or not P8 or not P9 or not P4
+not P6 or P7 or P5 or P10 or P9
+not P6 or P9 or not P1 or not P5 or P4
+not P3 or P4 or P7 or P5 or not P6
+P3 or P4 or not P5 or not P10 or P6
+not P2 or not P10 or P4 or P7 or P5
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+P2 or not P10 or not P1 or P3 or not P6
+not P5 or not P10 or not P8 or not P9 or not P4
+not P6 or P7 or P5 or P10 or P9
+not P6 or P9 or not P1 or not P5 or P4
+not P3 or P4 or P7 or P5 or not P6
+P3 or P4 or not P5 or not P10 or P6
+not P2 or not P10 or P4 or P7 or P5
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+P2 or not P10 or not P1 or P3 or not P6
+not P5 or not P10 or not P8 or not P9 or not P4
+not P6 or P7 or P5 or P10 or P9
+not P6 or P9 or not P1 or not P5 or P4
+not P3 or P4 or P7 or P5 or not P6
+P3 or P4 or not P5 or not P10 or P6
+not P2 or not P10 or P4 or P7 or P5
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+P2 or not P10 or not P1 or P3 or not P6
+not P5 or not P10 or not P8 or not P9 or not P4
+not P6 or P7 or P5 or P10 or P9
+not P6 or P9 or not P1 or not P5 or P4
+not P3 or P4 or P7 or P5 or not P6
+P3 or P4 or not P5 or not P10 or P6
+not P2 or not P10 or P4 or P7 or P5
+0.000000
+The current problem:
+====================
+P2 or not P10 or not P1 or P3 or not P6
+not P5 or not P10 or not P8 or not P9 or not P4
+not P6 or P7 or P5 or P10 or P9
+not P6 or P9 or not P1 or not P5 or P4
+not P3 or P4 or P7 or P5 or not P6
+P3 or P4 or not P5 or not P10 or P6
+not P2 or not P10 or P4 or P7 or P5
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+P2 or not P10 or not P1 or P3 or not P6
+not P5 or not P10 or not P8 or not P9 or not P4
+not P6 or P7 or P5 or P10 or P9
+not P6 or P9 or not P1 or not P5 or P4
+not P3 or P4 or P7 or P5 or not P6
+P3 or P4 or not P5 or not P10 or P6
+not P2 or not P10 or P4 or P7 or P5
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 10
+7 
+The current problem:
+====================
+P9 or P6 or not P5 or P2 or not P1
+P8 or not P3 or P2 or not P7 or P4
+not P7 or P5 or P9 or P3 or not P2
+P5 or not P3 or not P4 or P10 or not P2
+P9 or not P6 or P5 or P4 or P2
+P2 or P3 or P10 or P9 or P8
+P10 or not P8 or P7 or not P2 or P5
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+The current problem:
+====================
+P9 or P6 or not P5 or P2 or not P1
+P8 or not P3 or P2 or not P7 or P4
+not P7 or P5 or P9 or P3 or not P2
+P5 or not P3 or not P4 or P10 or not P2
+P9 or not P6 or P5 or P4 or P2
+P2 or P3 or P10 or P9 or P8
+P10 or not P8 or P7 or not P2 or P5
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+The current problem:
+====================
+P9 or P6 or not P5 or P2 or not P1
+P8 or not P3 or P2 or not P7 or P4
+not P7 or P5 or P9 or P3 or not P2
+P5 or not P3 or not P4 or P10 or not P2
+P9 or not P6 or P5 or P4 or P2
+P2 or P3 or P10 or P9 or P8
+P10 or not P8 or P7 or not P2 or P5
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+The current problem:
+====================
+P9 or P6 or not P5 or P2 or not P1
+P8 or not P3 or P2 or not P7 or P4
+not P7 or P5 or P9 or P3 or not P2
+P5 or not P3 or not P4 or P10 or not P2
+P9 or not P6 or P5 or P4 or P2
+P2 or P3 or P10 or P9 or P8
+P10 or not P8 or P7 or not P2 or P5
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+The current problem:
+====================
+P9 or P6 or not P5 or P2 or not P1
+P8 or not P3 or P2 or not P7 or P4
+not P7 or P5 or P9 or P3 or not P2
+P5 or not P3 or not P4 or P10 or not P2
+P9 or not P6 or P5 or P4 or P2
+P2 or P3 or P10 or P9 or P8
+P10 or not P8 or P7 or not P2 or P5
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+The current problem:
+====================
+P9 or P6 or not P5 or P2 or not P1
+P8 or not P3 or P2 or not P7 or P4
+not P7 or P5 or P9 or P3 or not P2
+P5 or not P3 or not P4 or P10 or not P2
+P9 or not P6 or P5 or P4 or P2
+P2 or P3 or P10 or P9 or P8
+P10 or not P8 or P7 or not P2 or P5
+0.000000
+The current problem:
+====================
+P9 or P6 or not P5 or P2 or not P1
+P8 or not P3 or P2 or not P7 or P4
+not P7 or P5 or P9 or P3 or not P2
+P5 or not P3 or not P4 or P10 or not P2
+P9 or not P6 or P5 or P4 or P2
+P2 or P3 or P10 or P9 or P8
+P10 or not P8 or P7 or not P2 or P5
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+The current problem:
+====================
+P9 or P6 or not P5 or P2 or not P1
+P8 or not P3 or P2 or not P7 or P4
+not P7 or P5 or P9 or P3 or not P2
+P5 or not P3 or not P4 or P10 or not P2
+P9 or not P6 or P5 or P4 or P2
+P2 or P3 or P10 or P9 or P8
+P10 or not P8 or P7 or not P2 or P5
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+7 
+The current problem:
+====================
+not P2 or P4 or not P10 or P6 or P7
+P7 or not P2 or P1 or P5 or P6
+P9 or P10 or not P4 or P3 or not P1
+P4 or P5 or not P6 or P1 or not P9
+P2 or P1 or not P7 or not P9 or P3
+P7 or P6 or not P5 or P3 or P1
+P6 or P3 or not P9 or not P10 or P4
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P2 or P4 or not P10 or P6 or P7
+P7 or not P2 or P1 or P5 or P6
+P9 or P10 or not P4 or P3 or not P1
+P4 or P5 or not P6 or P1 or not P9
+P2 or P1 or not P7 or not P9 or P3
+P7 or P6 or not P5 or P3 or P1
+P6 or P3 or not P9 or not P10 or P4
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P2 or P4 or not P10 or P6 or P7
+P7 or not P2 or P1 or P5 or P6
+P9 or P10 or not P4 or P3 or not P1
+P4 or P5 or not P6 or P1 or not P9
+P2 or P1 or not P7 or not P9 or P3
+P7 or P6 or not P5 or P3 or P1
+P6 or P3 or not P9 or not P10 or P4
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P2 or P4 or not P10 or P6 or P7
+P7 or not P2 or P1 or P5 or P6
+P9 or P10 or not P4 or P3 or not P1
+P4 or P5 or not P6 or P1 or not P9
+P2 or P1 or not P7 or not P9 or P3
+P7 or P6 or not P5 or P3 or P1
+P6 or P3 or not P9 or not P10 or P4
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P2 or P4 or not P10 or P6 or P7
+P7 or not P2 or P1 or P5 or P6
+P9 or P10 or not P4 or P3 or not P1
+P4 or P5 or not P6 or P1 or not P9
+P2 or P1 or not P7 or not P9 or P3
+P7 or P6 or not P5 or P3 or P1
+P6 or P3 or not P9 or not P10 or P4
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P2 or P4 or not P10 or P6 or P7
+P7 or not P2 or P1 or P5 or P6
+P9 or P10 or not P4 or P3 or not P1
+P4 or P5 or not P6 or P1 or not P9
+P2 or P1 or not P7 or not P9 or P3
+P7 or P6 or not P5 or P3 or P1
+P6 or P3 or not P9 or not P10 or P4
+0.000000
+The current problem:
+====================
+not P2 or P4 or not P10 or P6 or P7
+P7 or not P2 or P1 or P5 or P6
+P9 or P10 or not P4 or P3 or not P1
+P4 or P5 or not P6 or P1 or not P9
+P2 or P1 or not P7 or not P9 or P3
+P7 or P6 or not P5 or P3 or P1
+P6 or P3 or not P9 or not P10 or P4
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+The current problem:
+====================
+not P2 or P4 or not P10 or P6 or P7
+P7 or not P2 or P1 or P5 or P6
+P9 or P10 or not P4 or P3 or not P1
+P4 or P5 or not P6 or P1 or not P9
+P2 or P1 or not P7 or not P9 or P3
+P7 or P6 or not P5 or P3 or P1
+P6 or P3 or not P9 or not P10 or P4
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+7 
+The current problem:
+====================
+P2 or not P1 or P10 or not P6 or P4
+P2 or not P9 or not P7 or P4 or P6
+P1 or not P9 or P4 or not P8 or P5
+P10 or not P8 or not P1 or not P3 or P2
+P7 or not P1 or P8 or P5 or P4
+P9 or not P3 or P10 or P7 or P8
+P6 or not P5 or P4 or P8 or not P9
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+The current problem:
+====================
+P2 or not P1 or P10 or not P6 or P4
+P2 or not P9 or not P7 or P4 or P6
+P1 or not P9 or P4 or not P8 or P5
+P10 or not P8 or not P1 or not P3 or P2
+P7 or not P1 or P8 or P5 or P4
+P9 or not P3 or P10 or P7 or P8
+P6 or not P5 or P4 or P8 or not P9
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+The current problem:
+====================
+P2 or not P1 or P10 or not P6 or P4
+P2 or not P9 or not P7 or P4 or P6
+P1 or not P9 or P4 or not P8 or P5
+P10 or not P8 or not P1 or not P3 or P2
+P7 or not P1 or P8 or P5 or P4
+P9 or not P3 or P10 or P7 or P8
+P6 or not P5 or P4 or P8 or not P9
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+The current problem:
+====================
+P2 or not P1 or P10 or not P6 or P4
+P2 or not P9 or not P7 or P4 or P6
+P1 or not P9 or P4 or not P8 or P5
+P10 or not P8 or not P1 or not P3 or P2
+P7 or not P1 or P8 or P5 or P4
+P9 or not P3 or P10 or P7 or P8
+P6 or not P5 or P4 or P8 or not P9
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+The current problem:
+====================
+P2 or not P1 or P10 or not P6 or P4
+P2 or not P9 or not P7 or P4 or P6
+P1 or not P9 or P4 or not P8 or P5
+P10 or not P8 or not P1 or not P3 or P2
+P7 or not P1 or P8 or P5 or P4
+P9 or not P3 or P10 or P7 or P8
+P6 or not P5 or P4 or P8 or not P9
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+The current problem:
+====================
+P2 or not P1 or P10 or not P6 or P4
+P2 or not P9 or not P7 or P4 or P6
+P1 or not P9 or P4 or not P8 or P5
+P10 or not P8 or not P1 or not P3 or P2
+P7 or not P1 or P8 or P5 or P4
+P9 or not P3 or P10 or P7 or P8
+P6 or not P5 or P4 or P8 or not P9
+0.000000
+The current problem:
+====================
+P2 or not P1 or P10 or not P6 or P4
+P2 or not P9 or not P7 or P4 or P6
+P1 or not P9 or P4 or not P8 or P5
+P10 or not P8 or not P1 or not P3 or P2
+P7 or not P1 or P8 or P5 or P4
+P9 or not P3 or P10 or P7 or P8
+P6 or not P5 or P4 or P8 or not P9
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=false  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+The current problem:
+====================
+P2 or not P1 or P10 or not P6 or P4
+P2 or not P9 or not P7 or P4 or P6
+P1 or not P9 or P4 or not P8 or P5
+P10 or not P8 or not P1 or not P3 or P2
+P7 or not P1 or P8 or P5 or P4
+P9 or not P3 or P10 or P7 or P8
+P6 or not P5 or P4 or P8 or not P9
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11

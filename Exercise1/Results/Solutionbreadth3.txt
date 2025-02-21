@@ -1,0 +1,9 @@
+8, 513
+half 257 65
+decrease 128 2
+decrease 127 2
+decrease 126 2
+double 125 63
+double 250 126
+double 500 251
+decrease 1000 2

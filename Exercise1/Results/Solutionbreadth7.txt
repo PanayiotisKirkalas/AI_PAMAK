@@ -1,0 +1,7 @@
+6, 42678
+increase 182 2
+increase 183 2
+increase 184 2
+square 185 8511
+double 34225 17113
+root 68450 17048

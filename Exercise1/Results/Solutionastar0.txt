@@ -1,0 +1,9 @@
+8, 366
+half 779 195
+half 389 98
+root 194 46
+double 13 7
+double 26 14
+increase 52 2
+increase 53 2
+increase 54 2

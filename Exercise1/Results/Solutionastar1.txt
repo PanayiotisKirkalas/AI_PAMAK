@@ -1,0 +1,11 @@
+10, 363
+root 991 240
+double 31 16
+double 62 32
+double 124 63
+decrease 248 2
+decrease 247 2
+decrease 246 2
+decrease 245 2
+decrease 244 2
+decrease 243 2
