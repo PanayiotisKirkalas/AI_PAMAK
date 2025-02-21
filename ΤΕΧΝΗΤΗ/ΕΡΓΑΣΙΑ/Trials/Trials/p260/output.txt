@@ -1,0 +1,82 @@
+
+C:\„‚€‘ˆ€_2\SourceCode>bcsp.exe hill p260_1.txt sol260_h1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 170701
+Number of steps: 505100
+
+C:\„‚€‘ˆ€_2\SourceCode>bcsp.exe hill p260_2.txt sol260_h2.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 168220
+Number of steps: 505478
+
+C:\„‚€‘ˆ€_2\SourceCode>bcsp.exe hill p260_3.txt sol260_h3.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 180105
+Number of steps: 503637
+
+C:\„‚€‘ˆ€_2\SourceCode>bcsp.exe hill p260_4.txt sol260_h4.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 180831
+Number of steps: 511973
+
+C:\„‚€‘ˆ€_2\SourceCode>bcsp.exe hill p260_5.txt sol260_h5.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 183222
+Number of steps: 502303
+
+C:\„‚€‘ˆ€_2\SourceCode>bcsp.exe hill p260_6.txt sol260_h6.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 169910
+Number of steps: 499671
+
+C:\„‚€‘ˆ€_2\SourceCode>bcsp.exe hill p260_7.txt sol260_h7.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=false  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.003000 secs
+Number of restarts: 12
+Number of steps: 32
+
+C:\„‚€‘ˆ€_2\SourceCode>bcsp.exe hill p260_8.txt sol260_h8.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 177761
+Number of steps: 504039
+
+C:\„‚€‘ˆ€_2\SourceCode>bcsp.exe hill p260_9.txt sol260_h9.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=false  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.001000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\„‚€‘ˆ€_2\SourceCode>bcsp.exe hill p260_10.txt sol260_h10.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 174050
+Number of steps: 504475
