@@ -1,0 +1,122 @@
+
+C:\„‚€‘ˆ€_2\SourceCode>bcsp.exe hill p280_1.txt sol280_h1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 144547
+Number of steps: 443511
+
+C:\„‚€‘ˆ€_2\SourceCode>bcsp.exe hill p280_2.txt sol280_h2.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 155119
+Number of steps: 444016
+
+C:\„‚€‘ˆ€_2\SourceCode>bcsp.exe hill p280_3.txt sol280_h3.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 153315
+Number of steps: 436726
+
+C:\„‚€‘ˆ€_2\SourceCode>bcsp.exe hill p280_4.txt sol280_h4.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 147988
+Number of steps: 442837
+
+C:\„‚€‘ˆ€_2\SourceCode>bcsp.exe hill p280_5.txt sol280_h5.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 158759
+Number of steps: 440256
+
+C:\„‚€‘ˆ€_2\SourceCode>bcsp.exe hill p280_6.txt sol280_h6.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 149447
+Number of steps: 440051
+
+C:\„‚€‘ˆ€_2\SourceCode>bcsp.exe hill p280_7.txt sol280_h7.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 145028
+Number of steps: 447670
+
+C:\„‚€‘ˆ€_2\SourceCode>bcsp.exe hill p280_8.txt sol280_h8.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 149654
+Number of steps: 453725
+
+C:\„‚€‘ˆ€_2\SourceCode>bcsp.exe hill p280_9.txt sol280_h9.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 143123
+Number of steps: 455138
+
+C:\„‚€‘ˆ€_2\SourceCode>bcsp.exe hill p280_10.txt sol280_h10.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=false  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.002000 secs
+Number of restarts: 2
+Number of steps: 12
+
+C:\„‚€‘ˆ€_2\SourceCode>bcsp.exe hill p280_11.txt sol280_h11.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 167033
+Number of steps: 460997
+
+C:\„‚€‘ˆ€_2\SourceCode>bcsp.exe hill p280_12.txt sol280_h12.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 156612
+Number of steps: 458146
+
+C:\„‚€‘ˆ€_2\SourceCode>bcsp.exe hill p280_13.txt sol280_h13.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=false  P6=false  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.004000 secs
+Number of restarts: 11
+Number of steps: 38
+
+C:\„‚€‘ˆ€_2\SourceCode>bcsp.exe hill p280_14.txt sol280_h14.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 147694
+Number of steps: 459557
+
+C:\„‚€‘ˆ€_2\SourceCode>bcsp.exe hill p280_15.txt sol280_h15.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 155306
+Number of steps: 444719
